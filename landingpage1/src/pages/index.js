@@ -1,4 +1,3 @@
-
 import Main from "@/components/Main"
 import Second from "@/components/Second"
 import Third from "@/components/Third"
