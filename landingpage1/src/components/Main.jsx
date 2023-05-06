@@ -14,7 +14,7 @@ const Main = () => {
             <div className='md:flex max-w-[550px] flex-col mt-96 ml-60 
             '>
             <h1 className='mb-10 '>Virtual healthcare for you</h1>
-            <h2 className='text-gray-600'>Trafalgar provides progressive, and affordable 
+            <h2 className=''>Trafalgar provides progressive, and affordable 
 healthcare, accessible on mobile and online 
 for everyone</h2>
             <button className=' max-w-[175px] px-4 py-4  mr-8 bg-[#458FF6] rounded-[55px] text-white mt-10'>Consult today</button>
